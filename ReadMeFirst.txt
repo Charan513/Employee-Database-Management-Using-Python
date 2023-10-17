@@ -3,7 +3,7 @@
 This project is all about how to maintain the employee details in the Mysql Database .
 
 Created 	: Kandukuri Charan 
-Date    	: July 03 2023
+Date    	: July 24 2023
 Organization    : Calc Technology
 Location 	: Nandyal
 College  	: National Degree College 
