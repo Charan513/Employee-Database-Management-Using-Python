@@ -9,7 +9,7 @@ import promote_employee as promote
 import remove_employee as remove
 import search_employee as search
 
-
+            # Code
 
 def main_function(connection):
     print("*********************************************************************************")
@@ -94,79 +94,6 @@ if __name__ == "__main__":
     )
 
     main_function(connection)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
