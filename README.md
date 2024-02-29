@@ -3,7 +3,7 @@
 
 ## Overview
 
-The "**Employee Database Management**" project is a Python-based console application designed to streamline the process of managing employee data in a MySQL database. It offers a set of essential functionalities for adding, viewing, updating, promoting, removing, and searching employee records. This project showcases proficiency in database management and Python programming skills, making it an ideal candidate for discussions during software development job interviews.
+The "**Employee Database Management**" project is a Python-based console application designed to streamline the process of managing employee data in a MySQL database. It offers a set of essential functionalities for adding, viewing, updating, promoting, removing, and searching employee records. 
 
 ## Features
 
