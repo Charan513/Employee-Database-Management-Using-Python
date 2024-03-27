@@ -31,5 +31,7 @@ The project is structured into modular components, each serving a specific funct
 The application employs regular expressions for input validation, ensuring that user-provided data conforms to specified formats, such as ID, email ID, and phone number. This guarantees data accuracy and integrity.
 
 
+## Author
 
+[Kandukuri Charan](https://github.com/Charan513)
     
